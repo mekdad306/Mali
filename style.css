@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-box{
+    width: 1000px;
+    height: 600px;
+    border: 1px solid;
+    margin: auto;
+    margin-top: 50px;
+}
+.box-base{
+    width: 33.333%;
+    height: 100%;
+    float: left;
+}
+.box1{
+    background-color: #17B53A;
+}
+.box2{
+    background-color: #FCD116;
+}
+.box3{
+    background-color: #CE1226;
+}
+.name{
+    font-size: 18px;
+    text-align: center;
+}
